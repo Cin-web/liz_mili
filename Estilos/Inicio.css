@@ -1,0 +1,15 @@
+
+.milog{
+    width: 80px;
+height: 80px;
+}
+.container {
+    background-image: url("Imagenes\azul.jpg");
+    background-size: 100% auto;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.main{
+    background-color:burlywood;
+}
